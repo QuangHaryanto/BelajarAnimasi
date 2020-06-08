@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B2BE6FB248C029E0094AA01 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2BE6FA248C029E0094AA01 /* ProgressView.swift */; };
+		1B2BE6FD248C02C40094AA01 /* ProgressLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2BE6FC248C02C40094AA01 /* ProgressLayer.swift */; };
+		1B2BE6FF248C062F0094AA01 /* FancyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2BE6FE248C062F0094AA01 /* FancyButton.swift */; };
 		1BC0E410248923DF008FF34A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC0E40F248923DF008FF34A /* AppDelegate.swift */; };
 		1BC0E412248923DF008FF34A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC0E411248923DF008FF34A /* SceneDelegate.swift */; };
 		1BC0E414248923DF008FF34A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC0E413248923DF008FF34A /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B2BE6FA248C029E0094AA01 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		1B2BE6FC248C02C40094AA01 /* ProgressLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressLayer.swift; sourceTree = "<group>"; };
+		1B2BE6FE248C062F0094AA01 /* FancyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyButton.swift; sourceTree = "<group>"; };
 		1BC0E40C248923DF008FF34A /* BelajarAnimasi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BelajarAnimasi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BC0E40F248923DF008FF34A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BC0E411248923DF008FF34A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				1BC0E418248923E1008FF34A /* Assets.xcassets */,
 				1BC0E41A248923E1008FF34A /* LaunchScreen.storyboard */,
 				1BC0E41D248923E1008FF34A /* Info.plist */,
+				1B2BE6FA248C029E0094AA01 /* ProgressView.swift */,
+				1B2BE6FC248C02C40094AA01 /* ProgressLayer.swift */,
+				1B2BE6FE248C062F0094AA01 /* FancyButton.swift */,
 			);
 			path = BelajarAnimasi;
 			sourceTree = "<group>";
@@ -139,6 +148,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BC0E414248923DF008FF34A /* ViewController.swift in Sources */,
+				1B2BE6FD248C02C40094AA01 /* ProgressLayer.swift in Sources */,
+				1B2BE6FB248C029E0094AA01 /* ProgressView.swift in Sources */,
+				1B2BE6FF248C062F0094AA01 /* FancyButton.swift in Sources */,
 				1BC0E410248923DF008FF34A /* AppDelegate.swift in Sources */,
 				1BC0E412248923DF008FF34A /* SceneDelegate.swift in Sources */,
 			);

@@ -25,7 +25,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="myView" destination="R5e-5O-c1e" id="VAY-cv-Frk"/>
+                        <outlet property="myManuallyMadeView" destination="R5e-5O-c1e" id="VAY-cv-Frk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
